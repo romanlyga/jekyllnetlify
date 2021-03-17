@@ -94,3 +94,4 @@ exclude:
 collections:
   posts:
     permalink: '/posts/:title/'
+domain: 'https://jekyllnetlify-1ca83.netlify.app'
